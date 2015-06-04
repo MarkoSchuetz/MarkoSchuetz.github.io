@@ -8,7 +8,7 @@ JB:
     getclicky: 
       site_id: ~
     google: 
-      tracking_id: UA-123-12
+      tracking_id: UA-63758371-1
     mixpanel: 
       token: _MIXPANEL_TOKEN_
     piwik: 
